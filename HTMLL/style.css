@@ -1,0 +1,36 @@
+
+		body{
+			background-color: grey;
+
+		}
+	h1{
+		margin: 1px;
+		text-align: center;
+		padding: 50px;
+		color: indigo;
+		background-color:black ;
+		font-size: 55px;
+		margin: 10px;
+		font-family: Comic Sans Ms;
+	}
+	h3{	
+color: black;
+}
+nav a{
+	color: black;
+	display: inline;
+	padding: 15px 10px;
+	text-align: left;
+	background-color: blanchedalmond;
+	overflow: hidden;
+	float: left;
+	word-spacing: 175px;
+padding-left: 50px;
+padding-right: 110px;
+
+color: #black;
+font-style: initial;
+}
+nav a:hover{
+	background-color: indigo;
+}
